@@ -88,7 +88,7 @@
       <img src="assets/cutn-grocery.png" width="150" alt="CUTN Grocery App" />
     </td>
     <td width="74%" valign="middle">
-      <h3>🛒 CUTN Grocery App 2022</h3>
+      <h3>🛒 AI based Grocery App</h3>
       <p><sub><b>Kotlin · Android · TensorFlow Lite</b></sub></p>
       <p>A grocery shopping app where you can snap a photo of any product to find relevant in-store products. We trained the embedded <b>TensorFlow Lite</b> classifier ourselves on a custom grocery dataset, so it recognises produce right on the phone, no server needed.</p>
       <a href="https://github.com/gilesccs/CUTN-MobileApp">
