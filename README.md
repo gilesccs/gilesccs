@@ -43,7 +43,7 @@
         </a>
         <p><sub><b>Java · Docker · Cloud Run</b></sub></p>
       </div>
-      <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. I pull live data from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own ranking metrics like <b>train crowd levels</b>, the kind of things that actually shape how comfortable my journey feels.</p>
+      <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. I pull live data from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own ranking metrics like <b>train crowd levels</b>, the kind of things that I actually prioritise in a typical journey!s.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=java,docker,gcp" height="28" />
       </p>
