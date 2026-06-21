@@ -31,9 +31,6 @@
         <p><sub><b>Chrome · JavaScript</b></sub></p>
       </div>
       <p align="center">A lightweight Chrome extension that turns dense, sprawling articles into clean, structured TL;DRs. Just drop in your API key, hit <b>Summarise</b>, and read any complex Medium article in seconds.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,chrome" height="28" />
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚆 Transport Dashboard</h3>
@@ -41,7 +38,7 @@
         <a href="https://giles-transport-877906068417.asia-southeast1.run.app/" target="_blank">
           <img src="assets/train-crowd.png" width="100%" alt="Transport Dashboard" />
         </a>
-        <p><sub><b>Java · Docker · Cloud Run</b></sub></p>
+        <p><sub><b>Java · Alpine · Cloud Run</b></sub></p>
       </div>
       <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. Live data is pulled from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own metrics like <b>train crowd levels</b> and ranked using Djkstra (yes lol) </p>
       <p align="center">
@@ -57,7 +54,20 @@
     </td>
     <td align="center" valign="top">
       <a href="https://giles-transport-877906068417.asia-southeast1.run.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Try_it_out-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3 align="center">🏠 HDB Resale Map</h3>
+      <a href="https://hdb-resale.com" target="_blank">
+        <img src="assets/hdb-resale.png" width="80%" alt="HDB Resale Interactive Map" />
+      </a>
+      <p><sub><b>React · D3.js · MapLibre</b></sub></p>
+      <p>Wanted to play around with MapLibre so i created an interactive map to make sense of Singapore's <b>HDB resale market</b> at a glance. Hover over any town to see its average price and how many flats are selling, then filter by flat type, lease, floor area and storey to find what fits. GH workflows trigger a cronjob that routinely fetches from <b>data.gov.sg</b> every couple of weeks.</p>
+      <a href="https://hdb-resale.com">
+        <img src="https://img.shields.io/badge/Try_it_out-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
       </a>
     </td>
   </tr>
