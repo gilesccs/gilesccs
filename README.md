@@ -41,9 +41,6 @@
         <p><sub><b>Java · Alpine · Cloud Run</b></sub></p>
       </div>
       <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. Live data is pulled from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own metrics like <b>train crowd levels</b> and ranked using Djkstra (yes lol) </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,docker,gcp" height="28" />
-      </p>
     </td>
   </tr>
   <tr>
