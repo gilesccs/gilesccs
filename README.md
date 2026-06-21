@@ -18,6 +18,42 @@
 
 ---
 
+### 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 Page Summariser</h3>
+      <div align="center">
+        <a href="https://github.com/gilesccs/chrome-summariser" target="_blank">
+          <img src="assets/chrome-summariser.png" width="100%" alt="Page Summariser in action" />
+        </a>
+        <p><sub><b>Chrome Extension · JavaScript · Claude API</b></sub></p>
+      </div>
+      <p align="center">A lightweight Chrome extension that turns dense, sprawling articles into clean, structured TL;DRs. Just drop in your API key, hit <b>Summarise</b>, and read any complex Medium article in seconds.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,chrome" height="28" />
+        &nbsp;<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" height="28" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/gilesccs/chrome-summariser">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚧 More coming soon</h3>
+      <div align="center">
+        <br /><br />
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" />
+        <p><sub>Another project is on the way...</sub></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Apoorv's github streak](https://streak-stats.demolab.com?user=giles-chang&theme=dark&mode=weekly)
 
