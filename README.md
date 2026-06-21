@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://github.com/user-attachments/assets/0b415b97-79bd-48e7-b00f-1e5f21b64637" width="30px">, I'm Giles!<img src="https://github.com/user-attachments/assets/1ddd7bda-a1f8-4238-8d7b-3e43cadf7719" width="40px">!</h1>
+<h1 align="center">Hey <img src="https://github.com/user-attachments/assets/0b415b97-79bd-48e7-b00f-1e5f21b64637" width="30px">, I'm Giles!<img src="https://github.com/user-attachments/assets/1ddd7bda-a1f8-4238-8d7b-3e43cadf7719" width="40px"></h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a SWE working at Zendesk 
