@@ -4,7 +4,7 @@
 - 🏦 I'm a SWE working at Zendesk 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @[the second me](https://github.com/giles-chang)
 - 💻 I use daily: **.java**, **.rb**, **.js**, **.py**,  **.sql**
-- 🤔 I specialise in scalable systems, race conditions, and creating products for the broader audience.
+- 🤔 I specialise in scalable systems, race conditions, and creating products for the broader folks.
 - 📖 I am currently reading **Designing Data intensive applications** by Martin Kleppman
 - 👯 Would love to connect to chat! <a href="https://linkedin.com/in/gileschang" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
 - ⚡ Fun fact: I have a cat! 😻
@@ -48,7 +48,7 @@
         </a>
         <p><sub><b>Java · Alpine · Cloud Run</b></sub></p>
       </div>
-      <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. Live data is pulled from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own metrics like <b>train crowd levels</b> and ranked using Djkstra (yes lol) </p>
+      <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. Live data is pulled from the LTA DataMall and OneMap, then built into my own metrics like train crowd levels and ranked using Dijkstra (yes lol) </p>
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@
         <img src="assets/hdb-resale.png" width="80%" alt="HDB Resale Interactive Map" />
       </a>
       <p><sub><b>React · D3.js · MapLibre</b></sub></p>
-      <p>Wanted to play around with MapLibre so i created an interactive map to make sense of Singapore's <b>HDB resale market</b> at a glance. Hover over any town to see its average price and how many flats are selling, then filter by flat type, lease, floor area and storey to find what fits. GH workflows trigger a cronjob that routinely fetches from <b>data.gov.sg</b> every couple of weeks.</p>
+      <p>Wanted to play around with MapLibre so I created an interactive map to make sense of Singapore's <b>HDB resale market</b> at a glance. Hover over any town to see its average price and how many flats are selling, then filter by flat type, lease, floor area, and storey to find what fits. GH workflows trigger a cronjob that routinely fetches from <b>data.gov.sg</b> every couple of weeks.</p>
       <a href="https://hdb-resale.com">
         <img src="https://img.shields.io/badge/Try_it_out-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
       </a>
