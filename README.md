@@ -28,7 +28,7 @@
         <a href="https://github.com/gilesccs/chrome-summariser" target="_blank">
           <img src="assets/chrome-summariser.png" width="100%" alt="Page Summariser in action" />
         </a>
-        <p><sub><b>Chrome Extension · JavaScript</b></sub></p>
+        <p><sub><b>Chrome · JavaScript</b></sub></p>
       </div>
       <p align="center">A lightweight Chrome extension that turns dense, sprawling articles into clean, structured TL;DRs. Just drop in your API key, hit <b>Summarise</b>, and read any complex Medium article in seconds.</p>
       <p align="center">
@@ -43,7 +43,7 @@
         </a>
         <p><sub><b>Java · Docker · Cloud Run</b></sub></p>
       </div>
-      <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. I pull live data from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own ranking metrics like <b>train crowd levels</b>, the kind of things that I actually prioritise in a typical journey!s.</p>
+      <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. Live data is pulled from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own metrics like <b>train crowd levels</b> and ranked using Djkstra (yes lol) </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=java,docker,gcp" height="28" />
       </p>
