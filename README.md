@@ -28,12 +28,11 @@
         <a href="https://github.com/gilesccs/chrome-summariser" target="_blank">
           <img src="assets/chrome-summariser.png" width="100%" alt="Page Summariser in action" />
         </a>
-        <p><sub><b>Chrome Extension · JavaScript · Claude API</b></sub></p>
+        <p><sub><b>Chrome Extension · JavaScript</b></sub></p>
       </div>
       <p align="center">A lightweight Chrome extension that turns dense, sprawling articles into clean, structured TL;DRs. Just drop in your API key, hit <b>Summarise</b>, and read any complex Medium article in seconds.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=js,chrome" height="28" />
-        &nbsp;<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" height="28" />
       </p>
       <p align="center">
         <a href="https://github.com/gilesccs/chrome-summariser">
@@ -42,12 +41,22 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚧 More coming soon</h3>
+      <h3 align="center">🚆 Transport Dashboard</h3>
       <div align="center">
-        <br /><br />
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120" />
-        <p><sub>Another project is on the way...</sub></p>
+        <a href="https://giles-transport-877906068417.asia-southeast1.run.app/" target="_blank">
+          <img src="assets/train-crowd.png" width="100%" alt="Transport Dashboard" />
+        </a>
+        <p><sub><b>Java · Spring · Cloud Run</b></sub></p>
       </div>
+      <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. I pull live data from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own ranking metrics like <b>train crowd levels</b>, the kind of things that actually shape how comfortable my journey feels.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=java,spring,gcp" height="28" />
+      </p>
+      <p align="center">
+        <a href="https://giles-transport-877906068417.asia-southeast1.run.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
