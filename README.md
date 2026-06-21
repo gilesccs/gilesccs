@@ -34,11 +34,6 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=js,chrome" height="28" />
       </p>
-      <p align="center">
-        <a href="https://github.com/gilesccs/chrome-summariser">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚆 Transport Dashboard</h3>
@@ -46,17 +41,24 @@
         <a href="https://giles-transport-877906068417.asia-southeast1.run.app/" target="_blank">
           <img src="assets/train-crowd.png" width="100%" alt="Transport Dashboard" />
         </a>
-        <p><sub><b>Java · Spring · Cloud Run</b></sub></p>
+        <p><sub><b>Java · Docker · Cloud Run</b></sub></p>
       </div>
       <p align="center">My own dashboard where I can see everything that matters to my commute in one glance. I pull live data from the <b>LTA DataMall</b> and <b>OneMap</b> APIs, then build in my own ranking metrics like <b>train crowd levels</b>, the kind of things that actually shape how comfortable my journey feels.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,gcp" height="28" />
+        <img src="https://skillicons.dev/icons?i=java,docker,gcp" height="28" />
       </p>
-      <p align="center">
-        <a href="https://giles-transport-877906068417.asia-southeast1.run.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-        </a>
-      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/gilesccs/chrome-summariser">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://giles-transport-877906068417.asia-southeast1.run.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
