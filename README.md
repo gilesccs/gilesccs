@@ -70,9 +70,20 @@
         <img src="assets/hdb-resale.png" width="80%" alt="HDB Resale Interactive Map" />
       </a>
       <p><sub><b>React · D3.js · MapLibre</b></sub></p>
-      <p>Wanted to play around with MapLibre so I created an interactive map to make sense of Singapore's <b>HDB resale market</b> at a glance. Hover over any town to see its average price and how many flats are selling, then filter by flat type, lease, floor area, and storey to find what fits. GH workflows trigger a cronjob that routinely fetches from <b>data.gov.sg</b> every couple of weeks.</p>
+      <p>Wanted to play around with MapLibre so I created an interactive map to make sense of Singapore's <b>HDB resale market</b> at a glance. GH workflows trigger a cronjob that routinely fetches from <b>data.gov.sg</b> every couple of weeks.</p>
       <a href="https://hdb-resale.com">
         <img src="https://img.shields.io/badge/Try_it_out-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3 align="center">🗣️ Hokkien TTS &nbsp;🚧</h3>
+      <img src="assets/under-construction.gif" width="160" alt="Work in progress" />
+      <p><sub><b>Python · Ollama (Qwen + Taigi-Llama) · PyTorch · MERaLiON OmniVoice · Gradio</b></sub></p>
+      <p>Small experiment with  local inference to transform english -> hokkien TTS. Routes English → Mandarin (Qwen) → Hokkien (Taigi-Llama) → speech (MERaLiON OmniVoice + voice cloning). </b></p>
+      <a href="https://github.com/gilesccs/EnglishToHokkienTTS">
+        <img src="https://img.shields.io/badge/Work_In_Progress-FFA500?style=for-the-badge&logo=buildkite&logoColor=white" />
       </a>
     </td>
   </tr>
