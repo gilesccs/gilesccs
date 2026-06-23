@@ -70,7 +70,7 @@
         <img src="assets/hdb-resale.png" width="80%" alt="HDB Resale Interactive Map" />
       </a>
       <p><sub><b>React · D3.js · MapLibre</b></sub></p>
-      <p>Wanted to play around with MapLibre so I created an interactive map to make sense of Singapore's <b>HDB resale market</b> at a glance. GH workflows trigger a cronjob that routinely fetches from <b>data.gov.sg</b> every couple of weeks.</p>
+      <p>Wanted to play around with MapLibre so I created an interactive map to make sense of Singapore'sHDB resale market at a glance. GH workflows trigger a cronjob that routinely fetches from data.gov.sg every couple of weeks.</p>
       <a href="https://hdb-resale.com">
         <img src="https://img.shields.io/badge/Try_it_out-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
       </a>
