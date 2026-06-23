@@ -79,7 +79,9 @@
   <tr>
     <td colspan="2" align="center" valign="top">
       <h3 align="center">🗣️ Hokkien TTS &nbsp;🚧</h3>
-      <img src="assets/under-construction.gif" width="160" alt="Work in progress" />
+      <a href="https://github.com/gilesccs/EnglishToHokkienTTS" target="_blank">
+        <img src="assets/hokkien-tts.png" width="80%" alt="Hokkien TTS chat app" />
+      </a>
       <p><sub><b>Python · Ollama (Qwen + Taigi-Llama) · PyTorch · MERaLiON OmniVoice · Gradio</b></sub></p>
       <p>Small experiment with  local inference to transform english -> hokkien TTS. Routes English → Mandarin (Qwen) → Hokkien (Taigi-Llama) → speech (MERaLiON OmniVoice + voice cloning). </b></p>
       <a href="https://github.com/gilesccs/EnglishToHokkienTTS">
